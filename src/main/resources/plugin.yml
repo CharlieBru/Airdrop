@@ -1,0 +1,6 @@
+name: Airdrop
+author: CharlieBru
+main: me.charliebru.airdrop.Airdrop
+version: 1.0
+commands:
+  airdrop:
